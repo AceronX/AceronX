@@ -52,8 +52,6 @@ That is where I focus.
 
 | Project                                                       | What it does                                                                                                                                 |
 | :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**SmsOpsHQ**](https://github.com/AceronX/SmsOpsHQ)           | SMS operations management system built with ASP.NET Core, WPF, SQLite, SignalR, JWT authentication, Twilio integration, and automated tests. |
-| [**SmsOpsHQ.Hub**](https://github.com/AceronX/SmsOpsHQ.Hub)   | Central hub layer for monitoring and routing SMS operations across store deployments.                                                        |
 | [**pdf2doc**](https://github.com/AceronX/pdf2doc)             | Document conversion utility for PDF-to-document workflows.                                                                                   |
 | [**receipt-OCR**](https://github.com/AceronX/receipt-OCR)     | OCR-based receipt processing experiment.                                                                                                     |
 | [**WebAutomation**](https://github.com/AceronX/WebAutomation) | Browser and task automation work.                                                                                                            |
@@ -89,10 +87,8 @@ If an AI system cannot be tested, measured, or improved, it is not ready for pro
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-AceronX-111827?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AceronX)
-[![Email](https://img.shields.io/badge/Email-taopikhidayat.ai%40gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](taopikhidayat.ai@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@smartTaopik-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/smartTaopik)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square\&logo=github\&logoColor=white)](https://github.com/AceronX)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:taopikhidayat.ai@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/smartTaopik)
 
 ---
-
-<sub>AI Agents · RAG Systems · MCP Tooling · NVIDIA Edge AI · Backend Infrastructure</sub>
